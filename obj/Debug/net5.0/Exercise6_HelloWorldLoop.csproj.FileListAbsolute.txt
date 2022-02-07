@@ -1,0 +1,16 @@
+C:\GCBootcamp\gcbc_exercises\Exercise6_HelloWorldLoop\bin\Debug\net5.0\Exercise6_HelloWorldLoop.exe
+C:\GCBootcamp\gcbc_exercises\Exercise6_HelloWorldLoop\bin\Debug\net5.0\Exercise6_HelloWorldLoop.deps.json
+C:\GCBootcamp\gcbc_exercises\Exercise6_HelloWorldLoop\bin\Debug\net5.0\Exercise6_HelloWorldLoop.runtimeconfig.json
+C:\GCBootcamp\gcbc_exercises\Exercise6_HelloWorldLoop\bin\Debug\net5.0\Exercise6_HelloWorldLoop.runtimeconfig.dev.json
+C:\GCBootcamp\gcbc_exercises\Exercise6_HelloWorldLoop\bin\Debug\net5.0\Exercise6_HelloWorldLoop.dll
+C:\GCBootcamp\gcbc_exercises\Exercise6_HelloWorldLoop\bin\Debug\net5.0\ref\Exercise6_HelloWorldLoop.dll
+C:\GCBootcamp\gcbc_exercises\Exercise6_HelloWorldLoop\bin\Debug\net5.0\Exercise6_HelloWorldLoop.pdb
+C:\GCBootcamp\gcbc_exercises\Exercise6_HelloWorldLoop\obj\Debug\net5.0\Exercise6_HelloWorldLoop.csproj.AssemblyReference.cache
+C:\GCBootcamp\gcbc_exercises\Exercise6_HelloWorldLoop\obj\Debug\net5.0\Exercise6_HelloWorldLoop.GeneratedMSBuildEditorConfig.editorconfig
+C:\GCBootcamp\gcbc_exercises\Exercise6_HelloWorldLoop\obj\Debug\net5.0\Exercise6_HelloWorldLoop.AssemblyInfoInputs.cache
+C:\GCBootcamp\gcbc_exercises\Exercise6_HelloWorldLoop\obj\Debug\net5.0\Exercise6_HelloWorldLoop.AssemblyInfo.cs
+C:\GCBootcamp\gcbc_exercises\Exercise6_HelloWorldLoop\obj\Debug\net5.0\Exercise6_HelloWorldLoop.csproj.CoreCompileInputs.cache
+C:\GCBootcamp\gcbc_exercises\Exercise6_HelloWorldLoop\obj\Debug\net5.0\Exercise6_HelloWorldLoop.dll
+C:\GCBootcamp\gcbc_exercises\Exercise6_HelloWorldLoop\obj\Debug\net5.0\ref\Exercise6_HelloWorldLoop.dll
+C:\GCBootcamp\gcbc_exercises\Exercise6_HelloWorldLoop\obj\Debug\net5.0\Exercise6_HelloWorldLoop.pdb
+C:\GCBootcamp\gcbc_exercises\Exercise6_HelloWorldLoop\obj\Debug\net5.0\Exercise6_HelloWorldLoop.genruntimeconfig.cache
